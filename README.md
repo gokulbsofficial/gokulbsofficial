@@ -7,9 +7,9 @@ MERN / Flutter Developer
 I've been coding for 2 years. I am a self learning developer. I am ready to take challenges. I am really interested learn new things. I am interested to research backend stuffs other than creating ui.
 
 * 🌍  I'm based in Marthandam, Kanyakumari, Tamilnadu, India
-* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/gokul-b-s-b968191b5)
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/gokul-b-s)
 * ✉️  You can contact me at [gokulsreejith22002@gmail.com](mailto:gokulsreejith22002@gmail.com)
-* 🚀  I'm currently working on [Satmaya Digital](https://satmayadigital.com/)
+* 🚀  I'm currently working on [VectorCrop](https://vectorcrop.com/)
 * 🧠  I'm learning Flutter and Nodejs
 * 🤝  I'm open to collaborating on JavaScript, Flutter Projects
 * ⚡  I am learning DSA. I loves problem solving. Everyday, I will solve some problems on hackerank
