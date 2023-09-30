@@ -4,7 +4,16 @@ Hi 👋 My name is Gokul B S
 MERN / Flutter Developer
 ------------------------------
 
-I've been coding for 2 years. I am a self learning developer. I am ready to take challenges. I am really interested learn new things. I am interested to research backend stuffs other than creating ui.
+I've been freelancing in Backend development for a couple of years. My skills span Django in Python, Spring Boot in Java, and CodeIgniter in PHP, but my current focus is on Node.js using JavaScript and TypeScript.
+
+In my freelancing journey, I've completed over 10 successful projects, with contributions to 3 Dubai-based projects. I also had two web development internships at Technohack, where I demonstrated leadership skills. My expertise extends to Frontend development, utilizing React and Next frameworks for web development, and Flutter for mobile apps.
+
+Flutter allowed me to create a mobile application for AI applications and make strides in the AVS Cam project—an AI-powered Flutter app for detecting unknown faces. I also actively contribute as a coordinator in the VectorCrop Community, working on the development of the SecureCred Opensource Application for secure credentials storage.
+
+All my projects involve the use of MongoDB and are hosted on platforms like AWS, Amazon EC2, Cloudways, Hostinger, and Hostingraga. Technology is a constant learning journey for me, and I strive to acquire new skills every day.
+
+As I approach the end of my degree, I am becoming more passionate about Cyber Security. To prepare for this career path, I am currently engaged in two Cyber Security internships, one at Technohacks and the other at Accademor. Additionally, I am pursuing the CEH Course in EC Council to further enhance my expertise in this field.
+
 
 * 🌍  I'm based in Marthandam, Kanyakumari, Tamilnadu, India
 * 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/gokul-b-s)
