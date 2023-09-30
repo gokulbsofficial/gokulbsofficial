@@ -62,11 +62,11 @@ As I approach the end of my degree, I am becoming more passionate about Cyber Se
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GokulSreejith"><img src="http://github-readme-stat.gokulbs.com/api?username=GokulSreejith&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GokulSreejith's GitHub stats" /></a>
+<a href="http://www.github.com/GokulSreejith"><img src="https://github-readme-stat.gokulbs.com/api?username=GokulSreejith&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GokulSreejith's GitHub stats" /></a>
 
-<a href="http://www.github.com/GokulSreejith"><img src="http://github-readme-stat.gokulbs.com/?user=GokulSreejith&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GokulSreejith"><img src="https://github-readme-stat.gokulbs.com/?user=GokulSreejith&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/GokulSreejith" align="left"><img src="http://github-readme-stat.gokulbs.com/api/top-langs/?username=GokulSreejith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GokulSreejith" align="left"><img src="https://github-readme-stat.gokulbs.com/api/top-langs/?username=GokulSreejith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
