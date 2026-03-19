@@ -1,25 +1,21 @@
 Hi 👋 My name is Gokul B S
 ================================
 
-MERN / Flutter Developer
+Backend Developer
 ------------------------------
 
-I've been freelancing in Backend development for a couple of years. My skills span Django in Python, Spring Boot in Java, and CodeIgniter in PHP, but my current focus is on Node.js using JavaScript and TypeScript.
+I’m Gokul B S, a Backend Developer with 2+ years of experience building scalable, high-performance server-side applications. I specialize in Node.js, NestJS, and microservices, with a strong focus on API design, distributed systems, and secure cloud deployments.
 
-In my freelancing journey, I've completed over 10 successful projects, with contributions to 3 Dubai-based projects. I also had two web development internships at Technohack, where I demonstrated leadership skills. My expertise extends to Frontend development, utilizing React and Next frameworks for web development, and Flutter for mobile apps.
+At Ortmor Technology Agency, I develop backend systems for SaaS platforms, working with real-time communication (WebSockets, gRPC), event-driven architectures using Kafka, and payment integrations like Stripe and Razorpay. I also work extensively with AWS and DigitalOcean.
 
-Flutter allowed me to create a mobile application for AI applications and make strides in the AVS Cam project—an AI-powered Flutter app for detecting unknown faces. I also actively contribute as a coordinator in the VectorCrop Community, working on the development of the SecureCred Opensource Application for secure credentials storage.
-
-All my projects involve the use of MongoDB and are hosted on platforms like AWS, Amazon EC2, Cloudways, Hostinger, and Hostingraga. Technology is a constant learning journey for me, and I strive to acquire new skills every day.
-
-As I approach the end of my degree, I am becoming more passionate about Cyber Security. To prepare for this career path, I am currently engaged in two Cyber Security internships, one at Technohacks and the other at Accademor. Additionally, I am pursuing the CEH Course in EC Council to further enhance my expertise in this field.
+My expertise includes MongoDB, MySQL, Redis, Docker, and system design for scalability and fault tolerance. I’m focused on building efficient, secure applications and continuously improving in system design and modern cloud architectures.
 
 
-* 🌍  I'm based in Marthandam, Kanyakumari, Tamilnadu, India
-* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/gokul-b-s)
-* ✉️  You can contact me at [gokulsreejith22002@gmail.com](mailto:gokulsreejith22002@gmail.com)
-* 🚀  I'm currently working on [VectorCrop](https://vectorcrop.com/)
-* 🧠  I'm learning Flutter and Nodejs
+* 🌍  I'm based in Trivandram, Kerala, India
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/gokulbsofficial)
+* ✉️  You can contact me at [official@gokulbs.com](mailto:official@gokulbs.com)
+* 🚀  I'm currently working on [Ortmor Technology Agency](https://ortmoragency.com/)
+* 🧠  I'm learning advance topics
 * 🤝  I'm open to collaborating on JavaScript, Flutter Projects
 * ⚡  I am learning DSA. I loves problem solving. Everyday, I will solve some problems on hackerank
 
